@@ -1,0 +1,56 @@
+{
+   "rok": 2025,
+   "obszar":3,
+	"harmonogram":{
+		"Styczeń":{
+			"Resztkowe": [30],
+			"Bio": [30],
+			"Popiół": [10],
+			"Plastik": [3],
+			"Papier": [21],
+			"Szkło": []
+		},
+		"Luty":{
+			"Resztkowe": [27],
+			"Bio": [27],
+			"Popiół": [14],
+			"Plastik": [7],
+			"Papier": [],
+			"Szkło": [4]
+		},
+		"Marzec":{
+			"Resztkowe": [27],
+			"Bio": [27],
+			"Popiół": [14],
+			"Plastik": [7],
+			"Papier": [18],
+			"Szkło": [],
+         "Opony i elektrośmieci" : [4],
+         "Wielkogabarytowe" : [11]
+		},
+		"Kwiecień":{
+			"Resztkowe": [10,24],
+			"Bio": [10,24],
+			"Popiół": [9],
+			"Plastik": [3],
+			"Papier": [],
+			"Szkło": [1]
+		},
+		"Maj":{
+			"Resztkowe": [15,29],
+			"Bio": [15,29],
+			"Popiół": [],
+			"Plastik": [8,22],
+			"Papier": [20],
+			"Szkło": []
+		},
+		"Czerwiec":{
+			"Resztkowe": [12,30],
+			"Bio": [12,30],
+			"Popiół": [],
+			"Plastik": [5,26],
+			"Papier": [],
+			"Szkło": [3]
+		}
+	}
+}
