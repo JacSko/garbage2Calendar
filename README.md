@@ -14,4 +14,4 @@ $ python garbage2Calendar.py garbageSchedule.json
 3. Output file will be created with the name basing on 'area' key in json file.
 
 ## TODO
-[] Use CV/OCR to convert PDF table into json
+- Use CV/OCR to convert PDF table into json
